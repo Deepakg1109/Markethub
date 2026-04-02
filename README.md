@@ -1,24 +1,30 @@
-# Rental Marketplace Project
+# MarketHub
 
-This is a web-based marketplace project where users can:
+MarketHub is a web-based marketplace application where users can upload, view, buy, and search products.
 
-- Upload products
-- Buy products
-- Rent products
+## Features
+- Add products
+- Delete products
 - Search products
-- Manage listings
+- Buy option
+- Product listing
+- Database integration
 
-## Technologies Used
+## Tech Stack
 - Java
 - Spring Boot
 - MySQL
 - HTML
 - CSS
 - JavaScript
+- Maven
 
-## Features
-- Product listing
-- Buy option
-- Search option
-- Delete product
-- Database integration
+## How to Run
+1. Clone the repository
+2. Open in VS Code / IntelliJ
+3. Configure MySQL database
+4. Run the Spring Boot application
+5. Open browser and test the project
+
+## Author
+Deepak Gupta
