@@ -28,3 +28,13 @@ MarketHub is a web-based marketplace application where users can upload, view, b
 
 ## Author
 Deepak Gupta
+
+
+## Screenshots
+<img width="1920" height="1018" alt="Screenshot add product" src="https://github.com/user-attachments/assets/c5df1522-c076-4aa5-9e99-18da073707cc" />
+
+<img width="1920" height="1011" alt="Screenshot Register" src="https://github.com/user-attachments/assets/dc398c58-373b-4c24-90e3-5ee706f4a734" />
+
+<img width="1920" height="1015" alt="Screenshot of home" src="https://github.com/user-attachments/assets/13a67a59-ea1e-41d7-a501-5afeb351103b" />
+
+
