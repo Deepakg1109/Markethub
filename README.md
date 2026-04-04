@@ -2,6 +2,56 @@
 
 MarketHub is a web-based marketplace application where users can upload, view, buy, and search products.
 
+## Structure
+backend/
+├── pom.xml
+├── uploads/
+└── src/
+    └── main/
+        ├── java/
+        │   └── com/
+        │       └── markethub/
+        │           └── backend/
+        │               ├── BackendApplication.java
+        │               ├── controller/
+        │               │   ├── HomeController.java
+        │               │   ├── UserController.java
+        │               │   └── ProductController.java
+        │               ├── model/
+        │               │   ├── User.java
+        │               │   ├── Product.java
+        │               │   └── LoginRequest.java
+        │               ├── repository/
+        │               │   ├── UserRepository.java
+        │               │   └── ProductRepository.java
+        │               ├── service/
+        │               │   ├── UserService.java
+        │               │   └── ProductService.java
+        │               ├── config/
+        │               │   ├── SecurityConfig.java
+        │               │   └── CorsConfig.java
+        │               └── security/
+        │                   ├── JwtUtil.java
+        │                   └── JwtAuthFilter.java
+        └── resources/
+            └── application.properties
+    .gitignore
+    │   ├── pom.xml 
+    │   ├── mvnw.cmd 
+    │   └── mvnw 
+    └── .vscode/ 
+    │   └── settings.json
+├── edit-product.html
+├── my-products.html 
+├── login.html 
+├── register.html 
+├── products.html 
+├── index.html 
+├── README.md
+├── add-product.html
+├── style.css 
+└── script.js 
+
 ## Features
 - Add products
 - Delete products
