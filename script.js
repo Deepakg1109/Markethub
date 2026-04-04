@@ -1,4 +1,4 @@
-
+const BASE_URL = "https://your-backend.onrender.com/api";
 // Show login status
 function checkLogin() {
     const token = localStorage.getItem("token");
