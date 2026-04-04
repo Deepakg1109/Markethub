@@ -35,7 +35,7 @@ backend/
         │                   └── JwtAuthFilter.java
         └── resources/
             └── application.properties
-    .gitignore
+    .gitignore/
     │   ├── pom.xml 
     │   ├── mvnw.cmd 
     │   └── mvnw 
